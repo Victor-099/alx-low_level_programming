@@ -1,3 +1,5 @@
-# C Programming
+## Learning C Programming language
 
-## ALx Africa
+#
+
+# @alx_africa SE program
